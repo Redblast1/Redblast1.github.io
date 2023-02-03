@@ -1,5 +1,5 @@
 ---
-title: ":game_die: TTRPG Homebrew Setting"
+title: ":game_die: Mergi - TTRPG Homebrew Setting"
 layout: post
 date: 2023-01-31 22:56
 tag: ttrpg
@@ -13,17 +13,13 @@ author: redblast1
 externalLink: false
 ---
 
-# Mergi
+# Mergi - TTRPG Homebrew Setting
 
-![Markdowm Image][https://i.imgur.com/gUhoJiV.jpg]
+It is early yet and a constant work-in-progress, but heres the map so far. More information (eventually) to be found at <https://halfhearthero.com/ttrpg>
 
-I'll fill out more text here soon.
+![Map](https://i.imgur.com/gUhoJiV.jpg)
 
----
 
-What has inside?
-
-- Epicness
 
 ---
 ![Screenshot](https://d1rjs6jkrcxz2c.cloudfront.net/ads/640/d3270e5071accb6b23dcef215c76b69e.jpg)
