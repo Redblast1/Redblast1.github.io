@@ -3,7 +3,7 @@ title: ":game_die: TTRPG Homebrew Setting"
 layout: post
 date: 2023-01-31 22:56
 tag: ttrpg
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://i.imgur.com/e6INVP1.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,9 @@ author: redblast1
 externalLink: false
 ---
 
-![Screenshot](https://d1rjs6jkrcxz2c.cloudfront.net/ads/640/d3270e5071accb6b23dcef215c76b69e.jpg)
+# Mergi
+
+![Markdowm Image][https://i.imgur.com/gUhoJiV.jpg]
 
 I'll fill out more text here soon.
 
@@ -24,3 +26,4 @@ What has inside?
 - Epicness
 
 ---
+![Screenshot](https://d1rjs6jkrcxz2c.cloudfront.net/ads/640/d3270e5071accb6b23dcef215c76b69e.jpg)
