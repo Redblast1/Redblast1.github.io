@@ -13,11 +13,11 @@ author: redblast1
 externalLink: false
 ---
 
-# Mergi - TTRPG Homebrew Setting
+# The custom fantasy setting "Mergi" for tabletop rpgs
 
 It is early yet and a constant work-in-progress, but heres the map so far. More information (eventually) to be found at <https://halfhearthero.com/ttrpg>
 
-![Map](https://i.imgur.com/gUhoJiV.jpg)
+![Map](https://i.imgur.com/gUhoJiV.jpg){: class="bigger-image" }
 
 
 
